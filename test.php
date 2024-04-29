@@ -77,6 +77,8 @@ elseif ($firstValue>$secondValue){
         default:
         echo 'Try some other input';
         break;
+        echo '<br>';
+        echo 'we are here to confirm changes';
         } 
         // Today Class
         // LOOP
